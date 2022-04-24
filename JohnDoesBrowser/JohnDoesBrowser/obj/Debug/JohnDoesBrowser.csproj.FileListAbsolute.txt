@@ -1,0 +1,11 @@
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\bin\Debug\JohnDoesBrowser.exe.config
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\bin\Debug\JohnDoesBrowser.exe
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\bin\Debug\JohnDoesBrowser.pdb
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.csproj.AssemblyReference.cache
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.csproj.SuggestedBindingRedirects.cache
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.Form1.resources
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.Properties.Resources.resources
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.csproj.GenerateResource.cache
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.csproj.CoreCompileInputs.cache
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.exe
+E:\Programming\JohnDoesBrowser\JohnDoesBrowser\obj\Debug\JohnDoesBrowser.pdb
